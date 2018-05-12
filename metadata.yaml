@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Hornby, Lester G. (Lester George)
     alias: Hornby, Lester George
-    birthdate: &id001 1882
+    birthdate: 1882
     deathdate: 1956
     gutenberg_agent_id: '36547'
     url: http://www.gutenberg.org/2009/agents/36547
@@ -15,12 +15,14 @@ creator:
   author:
     agent_name: Gibbons, Helen Davenport
     alias: Gibbons, Helen Davenport (Brown), Mrs.
-    birthdate: *id001
+    birthdate: 1882
     deathdate: 1960
     gutenberg_agent_id: '40531'
     url: http://www.gutenberg.org/2009/agents/40531
     wikipedia: http://armenianhouse.org/gibbons/bio-en.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40292#Paris-Vistas
 gutenberg_issued: '2012-07-21'
 gutenberg_type: Text
 identifiers:
